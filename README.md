@@ -1,4 +1,4 @@
-# JStack's Refresh Token (Web)
+# JStack's Refresh Token (Web Client)
 
 A web client made with React and TypeScript that integrates JWT authentication with refresh token rotation.
 
