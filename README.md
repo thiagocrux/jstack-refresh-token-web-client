@@ -28,7 +28,7 @@ _For more information about other dependencies, see the `package.json` file._
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thiagocrux/jstack-refresh-token-web.git
+git clone https://github.com/thiagocrux/jstack-refresh-token-web-client.git
 ```
 
 2. Browse to the project folder:
